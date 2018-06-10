@@ -146,6 +146,7 @@
     <ClCompile Include="cpp\AlGas\ONTO123Instructions.cpp" />
     <ClCompile Include="cpp\AlGas\ONTO123InstructionState.cpp" />
     <ClCompile Include="cpp\AlGas\ONTO123InstructionStateBuilder.cpp" />
+    <ClCompile Include="cpp\Core\core.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="cpp\AlGas\ONTO123InstructionBuilder.h" />
