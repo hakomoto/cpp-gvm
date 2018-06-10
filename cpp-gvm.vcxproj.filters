@@ -18,5 +18,6 @@
     <ClInclude Include="cpp\AlGas\ONTO123Instructions.h" />
     <ClInclude Include="cpp\AlGas\ONTO123InstructionState.h" />
     <ClInclude Include="cpp\AlGas\ONTO123InstructionStateBuilder.h" />
+    <ClInclude Include="h\Utils\MemInject.h" />
   </ItemGroup>
 </Project>
